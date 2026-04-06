@@ -1,0 +1,8 @@
+D:\C# programs\Alphanumeric String\Alphanumeric String\bin\Debug\Alphanumeric String.exe.config
+D:\C# programs\Alphanumeric String\Alphanumeric String\bin\Debug\Alphanumeric String.exe
+D:\C# programs\Alphanumeric String\Alphanumeric String\bin\Debug\Alphanumeric String.pdb
+D:\C# programs\Alphanumeric String\Alphanumeric String\obj\Debug\Alphanumeric String.csproj.AssemblyReference.cache
+D:\C# programs\Alphanumeric String\Alphanumeric String\obj\Debug\Alphanumeric String.csproj.SuggestedBindingRedirects.cache
+D:\C# programs\Alphanumeric String\Alphanumeric String\obj\Debug\Alphanumeric String.csproj.CoreCompileInputs.cache
+D:\C# programs\Alphanumeric String\Alphanumeric String\obj\Debug\Alphanumeric String.exe
+D:\C# programs\Alphanumeric String\Alphanumeric String\obj\Debug\Alphanumeric String.pdb
