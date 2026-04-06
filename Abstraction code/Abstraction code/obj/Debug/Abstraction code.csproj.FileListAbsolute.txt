@@ -1,0 +1,8 @@
+D:\C# programs\Abstraction code\Abstraction code\bin\Debug\Abstraction code.exe.config
+D:\C# programs\Abstraction code\Abstraction code\bin\Debug\Abstraction code.exe
+D:\C# programs\Abstraction code\Abstraction code\bin\Debug\Abstraction code.pdb
+D:\C# programs\Abstraction code\Abstraction code\obj\Debug\Abstraction code.csproj.AssemblyReference.cache
+D:\C# programs\Abstraction code\Abstraction code\obj\Debug\Abstraction code.csproj.SuggestedBindingRedirects.cache
+D:\C# programs\Abstraction code\Abstraction code\obj\Debug\Abstraction code.csproj.CoreCompileInputs.cache
+D:\C# programs\Abstraction code\Abstraction code\obj\Debug\Abstraction code.exe
+D:\C# programs\Abstraction code\Abstraction code\obj\Debug\Abstraction code.pdb
